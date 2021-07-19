@@ -6,7 +6,7 @@
 - Demonstration of self-flying drone
     - [![Airsim Reinforcement Learning](https://res.cloudinary.com/marcomontalbano/image/upload/v1624705067/video_to_markdown/images/youtube--tDDw3dRxX3E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/tDDw3dRxX3E "Airsim Reinforcement Learning")
 - Conditional video frame prediction
-    - ![video generator Example](img/dreamer_predict_gif.PNG)  
+    - ![video generator Example](img/dreamer_video_prediction_example.PNG)  
     <!--- [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1624865408/video_to_markdown/images/youtube--ZNiG8Fy8eLs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ZNiG8Fy8eLs "")-->
 
 
